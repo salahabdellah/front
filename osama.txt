@@ -1,0 +1,7 @@
+git add css\main.css index.html
+git status
+git add osama.txt
+git status
+git reset head osama.txt
+git commit -m "created the main main project structre"
+git status
